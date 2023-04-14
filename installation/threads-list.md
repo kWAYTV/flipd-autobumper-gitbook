@@ -2,7 +2,7 @@
 description: 'Here''s an example JSON model and explanation:'
 ---
 
-# Threads list
+# Threads
 
 <pre class="language-json"><code class="lang-json"><strong>{
 </strong>    "threads":[

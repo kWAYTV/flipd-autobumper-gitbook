@@ -2,7 +2,7 @@
 description: 'Here''s a breakdown of the JSON config settings:'
 ---
 
-# Configuration file
+# Configuration
 
 ```yaml
 # Tool settings

@@ -4,6 +4,6 @@
 
 ## 🛠 Installation
 
-* [Configuration](installation/configuration.md)
-* [Threads](installation/threads.md)
+* [Configuration](installation/configuration-file.md)
+* [Threads](installation/threads-list.md)
 * [Cookies](installation/cookies.md)
