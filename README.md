@@ -7,4 +7,3 @@ description: >-
 
 # 🏠 Welcome
 
-[.](./ "mention")
