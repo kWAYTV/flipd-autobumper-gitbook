@@ -1,7 +1,7 @@
 ---
 description: >-
-  Before using the bumping tool, download your cookies from the main flipd.gg
-  site. This allows the tool to log into your account and bump your threads.
+  Before using the bumping tool, download your cookies from the main FLIPD site.
+  This allows the tool to log into your account and bump your threads.
 ---
 
 # Cookies
