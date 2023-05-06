@@ -1,7 +1,5 @@
 ---
-description: >-
-  Terms of Service (TOS)  Here are the Terms of Service that you must agree to
-  before using our services.
+description: Here are the TOS that you must agree to before using our services.
 ---
 
 # 📖 Terms of Service
